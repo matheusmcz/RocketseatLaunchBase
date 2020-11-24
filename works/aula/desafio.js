@@ -101,7 +101,3 @@ function listaPessoas(pessoas) {
 }
 
 listaPessoas(pessoas)
-
-
-// calculoTempoDeServico(pessoas[1].idade, pessoas[1].contribuicao, pessoas[1].sexo)
-// calculoTempoDeServico(pessoas[0].idade, pessoas[0].contribuicao, pessoas[0].sexo)
