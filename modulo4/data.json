@@ -1,0 +1,59 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1608138278545-366680accc66?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "name": "Fallen",
+      "email": "fallen@reidatrain.com.br",
+      "birth": -1776729600000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "100",
+      "height": "180"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://avatars.githubusercontent.com/u/46768454?s=460&u=613284f1a751691df45c16dad594a70fda7a13f7&v=4",
+      "name": "Gustavo David de Melo Guedes",
+      "email": "guga@gueros.com",
+      "birth": 746582400000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "120",
+      "height": "177"
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7506245?s=400&u=ed7c33d7e8341ac086cc6738b494af5707c64a9e&v=4",
+      "name": "Rogacilio Neto do Meu Avô",
+      "email": "rogacilio@janelacilio.com",
+      "birth": 744768000000,
+      "gender": "M",
+      "blood": "A-",
+      "weight": "55",
+      "height": "180"
+    },
+    {
+      "id": 5,
+      "avatar_url": "https://avatars.githubusercontent.com/u/70182429?s=460&u=874d3783b4c68e61ee405612a74549c7b60020f1&v=4",
+      "name": "Matheus Vieira",
+      "email": "matheus@matuto10.com",
+      "birth": 791769600000,
+      "gender": "M",
+      "blood": "AB-",
+      "weight": "73",
+      "height": "170"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1608138278545-366680accc66?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "name": "Matheus Vieira",
+      "birth": 791769600000,
+      "gender": "M",
+      "services": "Bodybuilding, Crossfit, Jiujitsu, Box, Funcional",
+      "created_at": 1611684756579
+    }
+  ]
+}
